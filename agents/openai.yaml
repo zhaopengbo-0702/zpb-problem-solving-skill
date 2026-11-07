@@ -1,0 +1,6 @@
+interface:
+  display_name: "ZPB 耐心讲题"
+  short_description: "用七步把课程题讲透：直观思路、完整推导、规范作答、考场策略与跨领域迁移"
+  default_prompt: "请使用 $zpb-problem-solving-skill，把下面的题目按七步从零基础讲透，解释思路来源，给出完整证明、考试策略与有依据的拓展。"
+policy:
+  allow_implicit_invocation: true
